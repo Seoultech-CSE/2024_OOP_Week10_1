@@ -1,6 +1,6 @@
-# OOP_2023_Week10_Problem1
+# 2024_OOP_Week10_1 : Containers
 
-- 각 코드에 주석으로 간단한 설명이 달려있습니다. 참고하셔서 `Problem1.java` 를 수정해주세요.
+- 각 코드에 주석으로 간단한 설명이 달려있습니다. 참고하셔서 `Containers.java` 를 수정해주세요.
 - sample run을 참조하시면 됩니다.
 
 ---
