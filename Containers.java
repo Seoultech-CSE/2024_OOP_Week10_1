@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Problem1 {
+public class Containers {
     public static void main(String[] args) {
         final java.util.Scanner input = new java.util.Scanner(System.in);
 
